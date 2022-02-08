@@ -1,1 +1,26 @@
-{}
+{
+    "sampleApps": [
+        {
+            "internalName": "APEX_DATE_DEMO",
+            "name": "apex.date Demo",
+            "description": "This is a demo app showcasing the new client side JavaScript library apex.date introduced with APEX 21.2. This library can be used to format & parse JavaScript date objects, to manipulate dates and has some useful helper functions as well.",
+            "author": "Daniel Hochleitner",
+            "version": "1.0.0",
+            "icon": "https://raw.githubusercontent.com/Dani3lSun/apex-samples/main/apps/apex_date/app-icon.svg",
+            "url": "https://github.com/Dani3lSun/apex-samples/tree/main/apps/apex_date",
+            "source": "https://raw.githubusercontent.com/Dani3lSun/apex-samples/main/apps/apex_date/apex_date_demo.sql",
+            "zip": "https://raw.githubusercontent.com/Dani3lSun/apex-samples/main/apps/apex_date/apex_date_demo.zip"
+        },
+        {
+            "internalName": "GEO_SAMPLE_APP",
+            "name": "Geo Sample App",
+            "description": "This is a demo app showcasing the new geo & spatial features introduced with APEX 21.2. It includes demos for Display Map item, Geocoded Address item & the new miniMap jQuery UI widget.",
+            "author": "Daniel Hochleitner",
+            "version": "1.0.0",
+            "icon": "https://raw.githubusercontent.com/Dani3lSun/apex-samples/main/apps/geo/app-icon.svg",
+            "url": "https://github.com/Dani3lSun/apex-samples/tree/main/apps/apex_date",
+            "source": "https://raw.githubusercontent.com/Dani3lSun/apex-samples/main/apps/geo/geo_sample_app.sql",
+            "zip": "https://raw.githubusercontent.com/Dani3lSun/apex-samples/main/apps/geo/geo_sample_app.zip"
+        }
+    ]
+}

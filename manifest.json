@@ -18,7 +18,7 @@
             "author": "Daniel Hochleitner",
             "version": "1.0.0",
             "icon": "https://raw.githubusercontent.com/Dani3lSun/apex-samples/main/apps/geo/app-icon.svg",
-            "url": "https://github.com/Dani3lSun/apex-samples/tree/main/apps/apex_date",
+            "url": "https://github.com/Dani3lSun/apex-samples/tree/main/apps/geo",
             "source": "https://raw.githubusercontent.com/Dani3lSun/apex-samples/main/apps/geo/geo_sample_app.sql",
             "zip": "https://raw.githubusercontent.com/Dani3lSun/apex-samples/main/apps/geo/geo_sample_app.zip"
         }
